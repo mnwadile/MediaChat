@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044656857586",
+    "firebase_url": "https://mediachat-14baa.firebaseio.com",
+    "project_id": "mediachat-14baa",
+    "storage_bucket": "mediachat-14baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044656857586:android:71a2260c5e545581",
+        "android_client_info": {
+          "package_name": "com.example.mayurwadile.mediachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044656857586-hlc4i9k2d1umt7p2it8ntnvldevsm0ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayurwadile.mediachat",
+            "certificate_hash": "a7ce745205ecc2f1a541a60f0968f5c1966469fc"
+          }
+        },
+        {
+          "client_id": "1044656857586-dgbm8e01369nn3sona1juc50f6768su8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_c1oznhhM56kJ4fYJyxAY1Mz2eJZNPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044656857586-dgbm8e01369nn3sona1juc50f6768su8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
